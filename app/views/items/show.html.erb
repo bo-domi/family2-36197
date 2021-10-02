@@ -11,11 +11,11 @@
       <%= image_tag image, class:"item-box-img" %>
       <% end %>
       
-      <%# if @item.record.present? %>
+      <% if @item.record.present? %>
       <div class="sold-out">
         <span>Sold Out!!</span>
       </div>
-      <%# end %>
+      <% end %>
       
     </div>
     <div class="item-price-box">
