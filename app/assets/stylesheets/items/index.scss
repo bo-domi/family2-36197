@@ -3,23 +3,23 @@ a {
 }
 
 .main {
-  background: #f8f8f8;
+  background: #976d6d;
 }
 
 /* 画面上部の「人生を変えるフリマアプリ」帯部分 */
 .title-contents {
   width: 100vw;
-  background-image: image-url('furima-header01.png');
+  background-image: image-url('4822366_l.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position:center;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
   padding: 5vh 15vw;
-  color: #fff;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+  color: rgb(231, 137, 14);
+  text-shadow: 0 0 5px rgba(194, 85, 85, 0.9);
 }
 
 .service-title {
@@ -124,7 +124,7 @@ a {
 /* 画面中央の「会員数日本一位」帯部分*/
 .ad-contents {
   width: 100vw;
-  background-image: image-url('furima-header02.png');
+  background-image: image-url('publicdomainq-0051428dtf.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
